@@ -1,0 +1,10 @@
+{
+  "name": "Stormcaller Greatsword",
+  "description": "A massive greatsword that crackles with captured lightning.",
+  "image": "https://raw.githubusercontent.com/CsAshir/forgeland-metadata/main/item2_epic.jpg",
+  "attributes": [
+    { "trait_type": "Type", "value": "Weapon" },
+    { "trait_type": "Rarity", "value": "Epic" },
+    { "trait_type": "Damage", "value": 55 }
+  ]
+}
