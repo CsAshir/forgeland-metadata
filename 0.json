@@ -1,0 +1,10 @@
+{
+  "name": "Rustfang Blade",
+  "description": "A chipped iron sword carried by new adventurers of Forgeland.",
+  "image": "https://raw.githubusercontent.com/CsAshir/forgeland-metadata/main/item0_common.jpg",
+  "attributes": [
+    { "trait_type": "Type", "value": "Weapon" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Damage", "value": 12 }
+  ]
+}
